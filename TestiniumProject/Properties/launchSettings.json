@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestiniumProject": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\ASUS\\source\\repos\\TestiniumProject"
+    }
+  }
+}
